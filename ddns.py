@@ -1,8 +1,8 @@
 import requests
 import re
-import os
 import time
 '''
+self.ipUrl => get the current ip url
 self.ip => id of token
 self.token => token
 self.dnsUrl => update url of ip dns
